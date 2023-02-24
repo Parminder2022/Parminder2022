@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on softwre engineering applications
 - 📫 reach me at parminder.dcse@gndu.ac.in
+- i am giving the demo of Git
 
 <!---
 Parminder2022/Parminder2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
